@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    background: #f5effa;
+    color: #30213d;
+}
+
+h1 { color: #7041a6; }
+
+button {
+    background: #7041a6;
+    color: white;
+}
+
+.error { color: red; }
